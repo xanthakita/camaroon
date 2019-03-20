@@ -1,2 +1,2 @@
 # camaroon
-repo for Cmaroon Cigar Lounge
+repo for Cameroon Cigar Lounge
